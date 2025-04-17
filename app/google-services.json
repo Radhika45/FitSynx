@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "94549213469",
+    "project_id": "fitnesstrackerapp-f3f19",
+    "storage_bucket": "fitnesstrackerapp-f3f19.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94549213469:android:d42ddf6629944cd83ce1f4",
+        "android_client_info": {
+          "package_name": "com.example.fitnesstracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyzTWbVcNjP3pkYTThQ2Z07BrqhUmF_7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
